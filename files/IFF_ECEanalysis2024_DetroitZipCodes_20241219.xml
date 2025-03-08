@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Map1</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Click here for metadata (descriptions of the fields).</abstract>
+            <purpose>IFF, a Community Development Financial Institution, completed an analysis of early childhood education (ECE) availability in Detroit in 2024. This data layer contains the ECE gap data (ECE gap, quality ECE gap and demand for general and subsidized ECE) for the 30 zip codes that were included in the analysis. Some zip codes extend outside of the Detroit border.</purpose>
+        </descript>
+        <accconst>None</accconst>
+        <useconst>This work is licensed under a Creative Commons Attribution Share-Alike 4.0 International License</useconst>
+        <datacred/>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
